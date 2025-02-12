@@ -6,7 +6,7 @@ import time
 import math
 import os
 import tkinter as tk #contains GUI, can be removed if converted to headless
-from tkinter import font
+from tkinter import fontjn, m
 from tkinter import filedialog
 import RPi.GPIO as GPIO
 import subprocess #For taking a picture with fswebcam
